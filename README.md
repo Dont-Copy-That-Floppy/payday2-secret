@@ -10,7 +10,7 @@ Information for solving the secret in PD2.
 
 Requirements
 ------------
- * 4 players with Piano puzzle completed in safehouse, and 20 achievements unlocked
+ * All players with piano puzzle completed in safehouse, and 20 achievements unlocked
 
 How To Solve
 ------------
@@ -55,7 +55,7 @@ the piano in Scarface's office and hit the following keys in order.
 
 This will stop the device from rotating. Interacting with the device will reveal
 ciphered riddles. These turn out to be required achievements to enable the
-secret.  
+secret.
 **Note**: Every time you hit the piano keys, these required achievements list are re-rolled.
 
 You can translate all **20** displayed for your account which appears to be
@@ -89,7 +89,7 @@ These are listed here with translations:
    `The four thieves guarded the innocent until they made their escape with the
     valuable bounty from the house of carbon.`
 
-1. But Wait - There’s More
+1. But Wait - There’s More!
 
    `From a well guarded transport the Four Thieves found out about a secret
     shipment containing a valuable weapon.`
@@ -103,7 +103,7 @@ These are listed here with translations:
 1. Self Checkout
 
    `When the four thieves were asked to destroy a large store their actions were
-    as fast as they were devastating`
+    as fast as they were devastating.`
 
 1. Platinum Card (Or: “Yeah, He’s a Gold Digger”)
 
@@ -112,8 +112,8 @@ These are listed here with translations:
 
 1. What’s in the Box?
 
-   `Great value rained from the sky and the four thieves opened any packages in
-    their quest for riches`
+   `Great value rained from the sky and the four thieves opened many packages in
+    their quest for riches.`
 
 1. [Let’s do th...](Plaques/Let’s%20do%20th...%20-%20The%20four%20thieves%20stole%20a%20valuable%20head%20ornament%20so%20fast%20that%20no%20one%20had%20a%20chance%20to%20react.jpg)
 
@@ -200,6 +200,8 @@ These are listed here with translations:
    Translation  | Achievement
    ------------ | -------------
    `The four thieves stole a rare rock of great value and importance without anyone noticing that they were there.` | `In The Diamond job, complete the heist without triggering the alarm. Unlocks "The Cursed One" mask, "Sand" material and "Hieroglyphs" pattern.`
+   `The four thieves stole a rare rock of great value and importance without
+    anyone noticing that they were there.`
 
 1. High Roller
 
@@ -216,7 +218,6 @@ These are listed here with translations:
    Translation  | Achievement
    ------------ | -------------
    `In the forest the four thieves kept the pipe from their river intact.` | `In The Bomb: Forest job, do not let the cops disconnect the water hose while you are using the river water pump. Unlocks the "Tech Lion" mask, "Marble Rock" material and "Lion Game Lion" pattern.`
-
 1. Settling a Scar
 
    `The four thieves attacked the mansion with great speed and ferocity.`
@@ -241,7 +242,7 @@ These are listed here with translations:
 1. Remember, No Russian
 
    `As the liquid turned to vapor the four thieves watched over the dead never
-    letting their power by taken away thereby staving off the darkness.`
+    letting their power be taken away thereby staving off the darkness.`
 
 1. Hazzard County
 
@@ -461,7 +462,7 @@ That of the watcher which will be consumed in the voice of SUMER
 ![ZUMRU](zumru.png)
 
 ```
-I can be trusted to guard the great wealth of the land but do not trust my WORDS
+I am trusted to guard the great wealth of the land but do not trust my WORDS
 ```
  * APATE
 
